@@ -54,7 +54,7 @@ A collection of wallpapers that I have accumulated from a several of repositorie
 
 ### Tech
 
-![technology](technology/te-00001.jpg)
+![tech](tech/te-00001.jpg)
 
 ### Video Games
 
